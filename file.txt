@@ -1,0 +1,41 @@
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Cloudpct: 20</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Feelslike: 20</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Humidity: 37</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Maxtemp: 21</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Mintemp: 21</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Sunrise: 1670547473</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Sunset: 1670585052</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Temp: 21</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Winddegrees: 170</th>
+<th style.innerHTML=.innerHTML=width: 22%;.innerHTML=>Windspeed: 1.54</th>
+
+
+
+
+
+
+
+  <td>temp.innerHTML=response.temp </td>
+  <td>cloud pct.innerHTML= response.cloud_pct</td>
+  <td>feels like.innerHTML=response.feels_like</td>
+  <td>humidity.innerHTML= response.humidity</td>
+  <td>min temp.innerHTML= response.min_temp</td>
+  <td>max temp.innerHTML= response.max_temp</td>
+  <td>wind speed.innerHTML= response.wind_speed</td>
+  <td>wind degrees.innerHTML= responsewind_degrees</td>
+  <td>sunrise.innerHTML= response.sunrise</td>
+  <td>sunset.innerHTML= response.sunset</td>
+
+
+
+
+        cloud_pct = response.cloud_pct
+        temp = response.temp = response
+        feels_like = response.feels_like
+        humidity = response.humidity
+        min_temp = response.min_temp
+        max_temp = response.max_temp
+        wind_speed = response.wind_speed
+        wind_degrees = responsewind_degrees
+        sunrise = response.sunrise
+        sunset = response.sunset
